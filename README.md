@@ -31,7 +31,7 @@ If you show this off (or use any code) in a YouTube or Vimeo, Facebook, Twitter,
 
 ## Review
 
-⭐ **[REVIEW RAYNB0W DINO EXTENSION ON THE WEBSTORE](soon)** ⭐
+⭐ **[REVIEW RAYNB0W DINO EXTENSION ON THE WEBSTORE]()** ⭐ SOOON
 
 ## Usage
 
