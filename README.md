@@ -3,6 +3,8 @@ Play Google's offline Dinosaur game in a popup! There's a twist! I spent hours m
 
 **LICENSE & COPYRIGHT INFO**
 
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi6gbjp1rXlAhXzQ3wKHS2jBFgQjRx6BAgBEAQ&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACopyright.svg&psig=AOvVaw3irfhjV_9Na2WmPiEkrlq8&ust=1572033374021303
+
 *Copyright © 2019 BayMaxYT
 If you want to modify, distribute etc you must include my license and the same ownership. (you can't say you made this code even if you slightly modified it)
 
