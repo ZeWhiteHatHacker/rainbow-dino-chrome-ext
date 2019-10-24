@@ -2,11 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 // extract from chromium source code by @liuwayong
-chrome.tabs.create({url: 'https://bit.ly/BayMaxYT'}, callback);
 
-function callback(data) {
-    console.log(data);
-}
 (function () {
     'use strict';
     /**
