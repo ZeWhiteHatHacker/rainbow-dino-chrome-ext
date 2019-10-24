@@ -12,6 +12,7 @@ If you show this off (or use any code) in a YouTube or Vimeo, Facebook, Twitter,
 > #####################################################
 
 > 👉 Code by BayMaxYT: https://bit.ly/BayMaxYT
+
 > 🔗 Available on GitHub: http://bit.ly/DinoExtGitHub
 
 > #####################################################
